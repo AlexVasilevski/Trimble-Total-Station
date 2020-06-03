@@ -1,0 +1,9 @@
+﻿  blackbox.cpp
+  FreakOut.cpp
+D:\Проекты\ForGitHub\Project FreakOut\FreakOut\FreakOut\FreakOut.cpp(154,14): warning C4101: hdc: неиспользованная локальная переменная
+D:\Проекты\ForGitHub\Project FreakOut\FreakOut\FreakOut\FreakOut.cpp(155,17): warning C4101: ps: неиспользованная локальная переменная
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 22 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  FreakOut.vcxproj -> D:\Проекты\ForGitHub\Project FreakOut\FreakOut\Release\FreakOut.exe

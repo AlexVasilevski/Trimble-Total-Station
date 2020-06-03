@@ -1,0 +1,9 @@
+﻿  blackbox.cpp
+D:\Проекты\ForGitHub\Project FreakOut\FreakOut\FreakOut\blackbox.cpp(396,51): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  FreakOut.cpp
+D:\Проекты\ForGitHub\Project FreakOut\FreakOut\FreakOut\FreakOut.cpp(225,15): warning C4244: return: преобразование "WPARAM" в "int", возможна потеря данных
+D:\Проекты\ForGitHub\Project FreakOut\FreakOut\FreakOut\FreakOut.cpp(154,14): warning C4101: hdc: неиспользованная локальная переменная
+D:\Проекты\ForGitHub\Project FreakOut\FreakOut\FreakOut\FreakOut.cpp(155,17): warning C4101: ps: неиспользованная локальная переменная
+  Создание кода...
+blackbox.obj : error LNK2019: ссылка на неразрешенный внешний символ DirectDrawCreateEx в функции "int __cdecl DD_Init(int,int,int)" (?DD_Init@@YAHHHH@Z)
+D:\Проекты\ForGitHub\Project FreakOut\FreakOut\x64\Debug\FreakOut.exe : fatal error LNK1120: неразрешенных внешних элементов: 1

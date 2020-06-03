@@ -1,0 +1,4 @@
+﻿  FreakOut.cpp
+D:\Проекты\ForGitHub\Project FreakOut\FreakOut\FreakOut\FreakOut.cpp(154,14): warning C4101: hdc: неиспользованная локальная переменная
+D:\Проекты\ForGitHub\Project FreakOut\FreakOut\FreakOut\FreakOut.cpp(155,17): warning C4101: ps: неиспользованная локальная переменная
+  FreakOut.vcxproj -> D:\Проекты\ForGitHub\Project FreakOut\FreakOut\Debug\FreakOut.exe
